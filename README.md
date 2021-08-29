@@ -17,3 +17,5 @@ I'm currently doing a Digital and Technology Solutions Level 7 Apprenticeship BS
 ## Stats
 
 ![hwoodiwiss's github stats](https://github-readme-stats.vercel.app/api?username=hwoodiwiss&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwoodiwiss&layout=compact&theme=tokyonight)
