@@ -12,7 +12,7 @@ Professionally I'm a full stack developer using:
 
 Aside from that I love C++ and Rust, and enjoy Embedded Systems, Security and Graphics programming.
 
-I'm currently doing a Digital and Technology Solutions Level 6 Apprenticeship BSc. Please excuse the PHP.
+I have recently completed Digital and Technology Solutions Level 6 Apprenticeship BSc. (Hons) Please excuse the PHP.
 
 ## Stats
 
