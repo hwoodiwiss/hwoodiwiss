@@ -7,8 +7,6 @@ Professionally I'm a primarily back-end developer using dotnet on AWS.
 
 Aside from that I love C++ and Rust, and enjoy Embedded Systems, Security and Graphics programming.
 
-I have recently completed Digital and Technology Solutions Level 6 Apprenticeship BSc. (Hons) Please excuse the PHP.
-
 ## Stats
 
 ![hwoodiwiss's github stats](https://github-readme-stats.vercel.app/api?username=hwoodiwiss&show_icons=true&theme=tokyonight&count_private=true)
